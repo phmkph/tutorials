@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<odoo>
+    <!-- Корневое меню -->
+    <menuitem id="re_menu_root" name="Estate Accounting" sequence="10"/>
+    
+</odoo>
